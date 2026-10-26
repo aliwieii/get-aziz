@@ -2,7 +2,7 @@
 
 <img src="icon.png" width="130" height="130" alt="Aziz Manager Logo" style="border-radius: 28px; box-shadow: 0 12px 30px rgba(124, 58, 237, 0.4);"/>
 
-# 🚀 المدير عبد العزيز
+# 🚀 Aziz Manager
 ### **Aziz Manager v1.0.0**
 #### *برنامج التحميل المتقدم فائق السرعة وخفيف الوزن لنظام Windows*
 
@@ -30,7 +30,7 @@
 
 <br/>
 
-## ✨ أبرز مميزات "المدير عبد العزيز"
+## ✨ أبرز مميزات "اAziz Manager"
 
 * 🚀 **أقصى سرعة تحميل (Multi-threaded Acceleration):** تقسيم الملفات إلى مسارات متزامنة متعددة لمضاعفة سرعة التنزيل إلى أقصى طاقة يدعمها اتصالك.
 * 🎬 **التقاط وسحب الفيديوهات الذكي:** تحميل الفيديوهات من YouTube و Facebook و Twitter بأعلى دقة ممكنة (حتى 4K و 60fps) واستخراج الصوت كـ MP3 بدمج تلقائي مدمج عبر FFmpeg و yt-dlp.
